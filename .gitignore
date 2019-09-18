@@ -1,4 +1,6 @@
 # Logs
+'aws.yaml'
+'build'
 logs
 *.log
 npm-debug.log*
